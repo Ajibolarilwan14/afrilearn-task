@@ -1,0 +1,9 @@
+.afri-btn {
+    background: #2bb58e;
+    color: #fff;
+}
+
+.afri-btn:hover {
+    color: #2bb58e;
+    background-color: whitesmoke;
+}
